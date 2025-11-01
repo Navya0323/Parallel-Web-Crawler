@@ -430,9 +430,3 @@ For your submission, please submit the following:
  - `src/main/java/com/udacity/webcrawler/profiler/ProfilingMethodInterceptor.java`
  - `src/main/java/com/udacity/webcrawler/main/WebCrawlerMain.java`
 
-## Double-Check the Rubric
-Make sure you have completed all the rubric items [here](https://review.udacity.com/#!/rubrics/2927/view).
-
-## Submit your Project
-
-You can submit your project by uploading a zip file or selecting your GitHub repo on the Udacity website.
