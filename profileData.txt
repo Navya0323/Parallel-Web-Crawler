@@ -1,0 +1,10 @@
+=== Profiling Session: PageParser ===
+Run at Tue, 21 Oct 2025 05:13:21 GMT
+com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 7s 655ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 20s 256ms
+
+=== Profiling Session: PageParser ===
+Run at Tue, 21 Oct 2025 05:14:29 GMT
+com.udacity.webcrawler.SequentialWebCrawler#crawl took 0m 0s 303ms
+com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 0s 300ms
+
